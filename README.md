@@ -1,4 +1,4 @@
-# automatic-driving-decision-and-planning
+# automatic-driving-decision-and-planning-for-matlab
 
 此代码库为bilibili上《自动驾驶决策规划算法》系列的所有matlab代码与模型。<br>
 -
