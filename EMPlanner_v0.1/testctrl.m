@@ -1,0 +1,1 @@
+plot(control_debug.LQR_debug.host_x.data,control_debug.LQR_debug.host_y.data,control_debug.xr_desire.data,control_debug.yr_desire.data);
